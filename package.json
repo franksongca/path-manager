@@ -1,0 +1,25 @@
+{
+  "name": "path-manager",
+  "version": "1.0.0",
+  "description": "Path Manager ==================== ![path-manager build status](https://travis-ci.org/crivas/path-manager.svg?branch=master)",
+  "main": "index.js",
+  "dependencies": {
+    "isarray": "^1.0.0",
+    "readable-stream": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.34.tgz",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franksongca/path-manager.git"
+  },
+  "author": "Frank Song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franksongca/path-manager/issues"
+  },
+  "homepage": "https://github.com/franksongca/path-manager#readme"
+}
