@@ -1,6 +1,6 @@
 {
-  "name": "path-manager",
-  "version": "1.0.0",
+  "name": "path-manager-ute",
+  "version": "1.0.1",
   "description": "Path Manager ==================== ![path-manager build status](https://travis-ci.org/crivas/path-manager.svg?branch=master)",
   "main": "index.js",
   "dependencies": {

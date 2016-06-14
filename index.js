@@ -25,7 +25,6 @@ var PathManager = function (configJson, brand) {
     } else if (typeof configJson === 'object') {
       this.packages = configJson;
     }
-console.log('BRAND = '+brand);
     if (brand) {
       this.packages.selectedBrand = brand;
     }
